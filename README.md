@@ -18,7 +18,7 @@ Prise en main de PyTorch (mode GPU) : CNN from scratch et fine-tuning d'AlexNet 
 | VGG16 (gelé) | 0,9770 | 0,9772 | 228,5 | 134,30 |
 | VGG16 (complet) | 0,9850 | 0,9849 | 534,2 | 134,30 |
 
-![Comparaison](images/comparaison.png)
+
 
 ## Conclusion
 Sur MNIST, un petit CNN surpasse AlexNet et VGG16 pour un coût bien inférieur. Le transfer learning est plus pertinent pour des datasets complexes ou de petite taille.
