@@ -48,10 +48,10 @@ lab2-pytorch-mnist/
 ## Lancer le projet
 
 ```bash
-git clone https://github.com/VOTRE-PSEUDO/lab2-pytorch-mnist.git
+git clone https://github.com/VOTRE-PSEUDO/lab2.git
 cd lab2-pytorch-mnist
 pip install -r requirements.txt
-jupyter notebook lab2_mnist_vit.ipynb
+jupyter notebook lab2-tp.ipynb
 ```
 
 Un GPU est fortement recommandé (Google Colab : *Runtime → Change runtime type → T4 GPU*, ou Kaggle). MNIST est téléchargé automatiquement par `torchvision`. Exécutez les cellules dans l'ordre, de haut en bas.
